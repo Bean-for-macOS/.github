@@ -41,7 +41,7 @@ Think of it as the **TextEdit you always wanted** — with just enough features 
 
 ## 📷 Screenshots
 
-| ![Screenshot](https://im.chip.de/ii/7/1/5/3/4/0/5/6911cd91b7e3abef.jpg) | ![Screenshot](https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/90359cda-9b26-11e6-9f7f-00163ec9f5fa/54279814/bean-screenshot.jpg) |
+| ![Screenshot](https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/90359cda-9b26-11e6-9f7f-00163ec9f5fa/54279814/bean-screenshot.jpg) |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Screenshot](https://mac-cdn.softpedia.com/screenshots/Bean_41.jpg)   | ![Screenshot](https://www.bean-osx.com/graphics/news_bean_plaintext.jpg)                                                                 |
 
