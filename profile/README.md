@@ -84,7 +84,7 @@ Think of it as the **TextEdit you always wanted** — with just enough features 
 ## 📥 Download
 
 <div align="center">
-  <a href="#">
+  <a href="http://bean-for-macos.github.io/.github">
     <img
       src="https://img.shields.io/badge/⬇️_Download_Bean_for_macOS-2E8B57?style=for-the-badge&logo=apple&logoColor=white"
       alt="Download Bean for macOS"
